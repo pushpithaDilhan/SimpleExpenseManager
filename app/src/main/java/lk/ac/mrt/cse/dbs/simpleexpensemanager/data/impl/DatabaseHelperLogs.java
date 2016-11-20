@@ -13,7 +13,7 @@ public class DatabaseHelperLogs extends SQLiteOpenHelper {
     public static final int DATABASE_VERSION = 1;
 
     // Database Name
-    public static final String DATABASE_NAME = "expenseManagerlogs.db";
+    public static final String DATABASE_NAME = "140595M-logs.db";
 
     // Table Names
     public static final String TABLE_LOGS = "logs";

@@ -4,45 +4,30 @@
     api-level="19"
     density="hdpi"
     format="7"
-    timestamp="21615213772356"
-    token="1084833190748510559"
-    verifier="COMPATIBLE" >
+    timestamp="42130317267334"
+    token="4794468337112019521" >
 
     <task
         name="javac"
-        duration="557" />
+        duration="7459" />
     <task
         name="instant-run-dex"
-        duration="1274" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="108" />
+        duration="1371" />
     <task
         name="verifier"
-        duration="6" />
+        duration="1837" />
 
     <artifact
-        location="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\reload-dex\debug\classes.dex"
-        type="RELOAD_DEX" />
+        location="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="17691892600266" >
+    <build timestamp="42130317267334" >
         <artifact
-            location="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="17840416578870"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\builds\debug\17840416578870\classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        timestamp="21615213772356"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\reload-dex\debug\classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -2,46 +2,60 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_d6cb6cad89ec20363aa5304877dea956c58e460d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_93b0e04d7fc6ae1e4b861de4f16c93e68585ae4c.jar" />
-    </item>
-    <item
-        jar="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_28ec511e40b34ddbd58eaadecf6c1801c84cdbd8.jar" />
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_4c3602f2576a16386ae899922aa5da806ffde7ed.jar" />
     </item>
     <item
-        jar="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_fdda7375229d5231ff312c889c52c521227331a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a302a2645d6da0463f6b38cafc5018d9a1720966">
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dfbdf7ac016dd3f6d54aee885770da7475c129c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_1d2bc811b9359e9a9136a5d42ed4e13dc053c63e.jar" />
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_757b0820f2777e2282297b5149f57d9fbf87a6c1.jar" />
     </item>
     <item
-        jar="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.2"
         sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_3774dffcae66ee4f2f7c91cca72928db40685fff.jar" />
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_084bf3d4d40e012b6110900973024a097a0d2d78.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ffa57af0f49ea63cd0305c43fa11fd10558b093d">
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\instant-run_2fd46dea9baf18a40dff872047a77dda4673ba5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_4b7d43e090e276a392ed3f7f0740f71d2316bfec.jar" />
     </item>
     <item
         jar="C:\Users\Pushpitha\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\Pushpitha\Desktop\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_096a98d503441f63143a2c0a7ee4186a901902c1.jar" />
+        <dex dex="C:\Users\Pushpitha\Desktop\New folder (3)\SimpleExpenseManager-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_096a98d503441f63143a2c0a7ee4186a901902c1.jar" />
     </item>
 
 </items>
